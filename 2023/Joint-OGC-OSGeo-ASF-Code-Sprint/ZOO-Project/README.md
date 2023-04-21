@@ -8,7 +8,7 @@ You can find bellow the ideas list of proposals ordered by priority.
 4. Add support for Collection Input to the ZOO-Kernel including metadata for specifying such a collection input support in the metadata
 6. Add support for Collection Output to the ZOO-Kernel including metadata for specifying such a collection input support in the metadata
 7. Review the current OGC ETS for the WPS 2.0.0
-8. Add support to the upcomming [ADES 2.0](https://github.com/EOEPCA/proc-ades-dev) for deploying services only for an authenticated user (add user_id reference in metadb)
+8. Add support to the upcomming [ADES 3.0](https://github.com/EOEPCA/proc-ades-dev) for deploying services only for an authenticated user (add user_id reference in metadb)
 9. Investigate implementation of openeo as encoding for deploying services using the [OGC API - Processes - Part 2: Deploy, Repace, Undeploy draft specification](https://docs.ogc.org/DRAFTS/20-044.html)
 
 
